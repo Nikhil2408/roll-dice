@@ -1,0 +1,19 @@
+.RollDice{
+    height: 50vh;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.RollDice-btn{
+    margin: 5rem 2rem;
+    padding: 1rem 3rem;
+    border: none;
+    font-weight: bold;
+}
+
+.RollDice-btn:hover{
+    cursor: pointer;
+    background-color: cadetblue;
+    color: white;
+}
