@@ -1,6 +1,6 @@
 # Roll Dice App
 
-This App basically renders the dice component with random numbers every time we click on Roll Dice. Here is the link to the app - [Roll Dice](https://master--stellular-crisp-e91b5b.netlify.app/)
+This App basically renders the dice component with random numbers every time we click on Roll Dice. Here is the link to the app - [Roll Dice](https://serene-otter-61674d.netlify.app)
 
 
 **Learnt about following stuff through this project:**
